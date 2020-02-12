@@ -1,13 +1,3 @@
-# Emojinator   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
-
-This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
-
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/7)
-
-# [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock) [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
-
-
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
 
@@ -34,19 +24,3 @@ If you face any problem, kindly raise an issue
 3) Run `CreateCSV.py` for converting the images to a CSV file
 4) If you want to train the model, run 'TrainEmojinator.py'
 5) Finally, run `Emojinator.py` for testing your model via webcam.
-
-### Contributors
-
-##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
-##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
- 
-### Emojinator
-<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/emo.gif">
-
-### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
-<img src="https://github.com/akshaybahadur21/Emojinator/blob/master/RPS.gif">
-
-
-
-
-
